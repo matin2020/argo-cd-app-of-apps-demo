@@ -10,7 +10,7 @@ spec:
     path: apps
     repoURL: 'https://github.com/matin2020/argo-cd-app-of-apps-demo'
     targetRevision: HEAD
-  project: my_project
+  project: default
   # syncPolicy:
   #   automated:
   #     prune: true
