@@ -13,7 +13,7 @@ spec:
   source:
     path: general/helm-guestbook
     repoURL: https://github.com/morey-tech/argocd-example-apps
-    targetRevision: 0.8.0
+    targetRevision: 0.8.11
   syncPolicy:
     automated:
       prune: true
